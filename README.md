@@ -1,19 +1,19 @@
 ---
 
-# Kalkulator Konsolowy (C++)
+Kalkulator Konsolowy (C++)
 
 Prosty kalkulator naukowy napisany w języku C++, który umożliwia wykonywanie podstawowych operacji matematycznych w pętli interaktywnej.
 
-## ✨ Funkcje
+##✨ Funkcje
 
 * **Dodawanie (+)**
 * **Odejmowanie (-)**
-* **Mnożenie (*)**
+* **Mnozenie (*)**
 * **Dzielenie (/)** — z zabezpieczeniem przed dzieleniem przez zero.
 
 ---
 
-## 📝 Jak używać
+##📝 Jak używać
 
 1. Wybierz operację z menu (1-4).
 2. Podaj dwie liczby.
