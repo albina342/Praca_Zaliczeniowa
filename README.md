@@ -1,5 +1,4 @@
 
-
 ---
 
 # Kalkulator Konsolowy (C++)
