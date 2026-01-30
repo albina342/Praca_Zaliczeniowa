@@ -14,7 +14,7 @@ int main() {
 
 void showMenu() {
     cout << "==============================" << endl;
-    cout << "    SCIENTIFIC CALCULATOR     " << endl;
+    cout << "    SCIENTIFIC-CALCULATOR     " << endl;
     cout << "==============================" << endl;
     cout << "1. Addition (+)" << endl;
     cout << "2. Subtraction (-)" << endl;
