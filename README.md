@@ -1,3 +1,5 @@
+
+
 ---
 
 # Kalkulator Konsolowy (C++)
@@ -10,7 +12,9 @@ Prosty kalkulator naukowy napisany w języku C++, który umożliwia wykonywanie 
 * **Odejmowanie (-)**
 * **Mnożenie (*)**
 * **Dzielenie (/)** — z zabezpieczeniem przed dzieleniem przez zero.
-* 
+
+
+
 
 ## 📝 Jak używać
 
@@ -19,3 +23,4 @@ Prosty kalkulator naukowy napisany w języku C++, który umożliwia wykonywanie 
 3. Wybierz `0`, aby wyjść z programu.
 
 ---
+
