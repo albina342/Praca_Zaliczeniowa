@@ -2,7 +2,7 @@
 
 Kalkulator Konsolowy (C++)
 
-Prosty kalkulator naukowy napisany w języku C++, który umożliwia wykonywanie podstawowych operacji matematycznych w pętli interaktywnej.
+Prosty kalkulator naukowy napisany w jezyku C++, ktory umozliwia wykonywanie podstawowych operacji matematycznych w petli interaktywnej.
 
 ##✨ Funkcje
 
